@@ -1,0 +1,3 @@
+.venv/
+ jupyter-notebook.exe
+requirements.txt
